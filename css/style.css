@@ -79,14 +79,14 @@ hr {
     padding-bottom: 30px;
 }
 .intro{
-    width:30%;
+    width:50%;
     margin: auto;
 }
 .trademark{
     margin-bottom: 0px;
 }
 .skills{
-    width: 50%;
+    width: 70%;
     position: relative;
     margin: 100px auto 100px auto;
     text-align: left;
@@ -95,7 +95,7 @@ hr {
     margin-bottom: 200px;
 }
 .profile{
-    width: 50%;
+    width: 70%;
     position: relative;
     margin: 100px auto 100px auto;
 }
